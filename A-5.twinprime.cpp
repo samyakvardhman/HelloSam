@@ -16,7 +16,7 @@ int prime(int n)
 	else
 	return 0;
 }
-//Changeed
+//Changed
 int main()
 {
 	int f,s;
